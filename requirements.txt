@@ -1,0 +1,9 @@
+﻿asgiref
+Django
+django-cors-headers
+djangorestframework
+Pillow
+pytz
+sqlparse
+tzdata
+gunicorn
